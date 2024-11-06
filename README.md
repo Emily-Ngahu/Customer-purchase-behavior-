@@ -20,7 +20,7 @@ Key Phases:
    - Develop actionable recommendations targeting specific customer segments.
    - Formulate strategies to optimize product offerings and enhance customer engagement.
 ## Data
-The datasets used for this project were provided by quantiam analytics and can be bothe downloaded from this repository. 
+The datasets used for this project were provided by quantiam analytics and can be both  be downloaded from this repository. 
 ## Data description
 ### Trasaction data
 The transaction data has the following columns:
@@ -48,3 +48,37 @@ The purchase behavior Data has the following columns:
 4. Checked for incorrect formarts, errors, and data types to ensure consistency and acuuracy of the data.
    Since the data is okay, we merge the two dataframes. 
 ## Exploratory Data analysis
+1. Define Metrics and Explore Key Statistics
+   - The total sales were 1934415.0000000002
+   - Products driving the highetst sales
+     PROD_NAME
+Dorito Corn Chp     Supreme 380g            40352.0
+Smiths Crnkle Chip  Orgnl Big Bag 380g      36367.6
+Smiths Crinkle Chips Salt & Vinegar 330g    34804.2
+Kettle Mozzarella   Basil & Pesto 175g      34457.4
+Smiths Crinkle      Original 330g           34302.6
+Cheezels Cheese 330g                        34296.9
+Doritos Cheese      Supreme 330g            33390.6
+Kettle Sweet Chilli And Sour Cream 175g     33031.8
+Kettle Original 175g                        32740.2
+Kettle Sea Salt     And Vinegar 175g        32589.0
+    - Products driving the least sales
+      PROD_NAME
+WW Original Stacked Chips 160g              5323.8
+WW Sour Cream &OnionStacked Chips 160g      5323.8
+WW D/Style Chip     Sea Salt 200g           5249.7
+Woolworths Cheese   Rings 190g              5169.6
+Snbts Whlgrn Crisps Cheddr&Mstrd 90g        5076.2
+WW Crinkle Cut      Chicken 175g            4702.2
+Sunbites Whlegrn    Crisps Frch/Onin 90g    4600.2
+WW Crinkle Cut      Original 175g           4532.2
+Woolworths Mild     Salsa 300g              4234.5
+Woolworths Medium   Salsa 300g              4050.0
+
+2. Data visualization
+   1. Top 10 Products by Sales
+
+      ![image](https://github.com/user-attachments/assets/3081fa65-0b8f-4a4b-bd18-07bed55a75db)
+
+
+
