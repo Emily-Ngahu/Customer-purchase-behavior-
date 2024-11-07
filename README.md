@@ -108,6 +108,10 @@ Woolworths Medium   Salsa 300g              4050.0
 
       ![image](https://github.com/user-attachments/assets/917b6936-8645-4f17-b308-2d4d192235d2)
 
+   3. Distribution of Transaction Quantity
+
+      ![image](https://github.com/user-attachments/assets/9db4b081-2b0d-4768-af54-c5c27f37524a)
+
 
 
 
